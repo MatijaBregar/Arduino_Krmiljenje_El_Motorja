@@ -27,7 +27,11 @@ l) Krmiljenje el. motorja:  S tipko b1 vklopimo vrtenje motorja (preko tranzisto
 - Lahko bi uporabila 2 releja za spreminjanje smeri vrtenja motorja.
 
 ## Video
-- Velikost videa je prevelika.
+
+
+https://user-images.githubusercontent.com/31419257/167386556-d04904fb-91d0-4199-9096-6e0bcfde6b8e.mp4
+
+
 
 ## Priredbeni seznam
 ![alt text](https://github.com/MatijaBregar/Arduino_Krmiljenje_El_Motorja/blob/main/priredbeni%20seznam.png?raw=true)
