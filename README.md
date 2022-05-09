@@ -33,10 +33,10 @@ l) Krmiljenje el. motorja:  S tipko b1 vklopimo vrtenje motorja (preko tranzisto
 ![alt text](https://github.com/MatijaBregar/Arduino_Krmiljenje_El_Motorja/blob/main/priredbeni%20seznam.png?raw=true)
 
 ## Vezava
-![alt text](https://github.com/MatijaBregar/Arduino_Krmiljenje_El_Motorja/blob/main/Screenshot%202022-04-20%20at%2011.15.51.png?raw=true)
+![alt text](https://github.com/MatijaBregar/Arduino_Krmiljenje_El_Motorja/blob/main/vezava.png)
 
 ## Shema
-![alt text](https://github.com/MatijaBregar/Arduino_Krmiljenje_El_Motorja/blob/main/Screenshot%202022-05-04%20at%2010.51.24.png?raw=true)
+![alt text](https://github.com/MatijaBregar/Arduino_Krmiljenje_El_Motorja/blob/main/shema.png)
 
 ## Foto
-![alt text](https://github.com/MatijaBregar/Arduino_Krmiljenje_El_Motorja/blob/main/Screenshot_2022-05-04-11-35-57-353_com.google.android.apps.photos.jpg?raw=true)
+![alt text](https://github.com/MatijaBregar/Arduino_Krmiljenje_El_Motorja/blob/main/foto.jpg)
